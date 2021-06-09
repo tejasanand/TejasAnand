@@ -28,8 +28,8 @@ src="https://ih0.redbubble.net/image.415946483.7473/flat,1000x1000,075,f.u1.jpg"
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" aly="Python" width="26px"
-src="">
+<img align="left" aly="Octave" width="26px"
+src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg">
 <br>
  
 

@@ -38,7 +38,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg">
 <h2 align="left">Connect with me:</h2>
 
 
-<a href="https://twitter.com/manavvgarg__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adharmimanav" height="30" width="40" /></a>
-<a href="https://www.instagram.com/tejas_anand_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="manavvgarg_" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/tejas_anand_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tejasnaand" height="30" width="40" /></a>
 </p>
 

@@ -11,8 +11,8 @@ Reach me at **anandtejas455@gmail.com**
 
 - 🔭 I’m currently learning Tensorflow & Javascript and expanding my knowledge on Data Science libraries in Python like Scipy and Numpy
 
--  I know Python,Swift,Octave,HTML5 & CSS3
-- I am currently working on a project on surgical pose estimation using CNNs
+-  ♤I know Python,Swift,Octave,HTML5 & CSS3
+- 🔎I am currently working on a project on surgical pose estimation using CNNs
 
 - ⚡ Fun fact: I play games and listen to songs.
   

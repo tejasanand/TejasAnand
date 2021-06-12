@@ -32,6 +32,9 @@ src="https://ih0.redbubble.net/image.415946483.7473/flat,1000x1000,075,f.u1.jpg"
 src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg">
 <img align="left" alt="Git" width="62px"
 src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg">
+<img align="left" alt="Opencv" width="30px"
+src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg">
+<br>
 <br>
  
 

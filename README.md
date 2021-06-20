@@ -9,9 +9,9 @@ Reach me at **anandtejas455@gmail.com**
 
 
 
-- 🔭 I’m currently learning Tensorflow & Javascript and expanding my knowledge on Data Science libraries in Python like Scipy and Numpy
+- 🔭 I’m currently learning  Javascript and expanding my knowledge on Data Science libraries in Python like Scipy and Numpy
 
--  ♤I know Python,Swift,Octave,HTML5 & CSS3
+-  ♤I know Python,TensorFlow,Swift,Octave,HTML5 & CSS3
 
 
 - ⚡ Fun fact: I play games and listen to songs.
@@ -34,6 +34,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg">
 src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg">
 <img align="left" alt="Opencv" width="30px"
 src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg">
+<img align="left" alt="Tensorflow" width="44px"
+src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg">
 <br>
 <br>
  

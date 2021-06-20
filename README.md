@@ -49,5 +49,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_s
 
 
 <a href="https://www.instagram.com/tejas_anand_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tejasnaand" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/31c4x7icxf4zam7nu2seh77b265y?si=85f636d980a3444e" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85618388/122677726-2acfe500-d201-11eb-96c5-212cedc0348f.png" alt="tejasanand" height="43" width="40" /></a>
+
 </p>
 

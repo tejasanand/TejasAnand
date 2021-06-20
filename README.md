@@ -21,8 +21,10 @@ Reach me at **anandtejas455@gmail.com**
 <h2 align="left">Languages and tools:</h2>
  
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+
+<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+<img align="left" alt="Tensorflow" width="44px"
+src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg">
 <img align="left" alt="Swift" width="27px"
 src="https://ih0.redbubble.net/image.415946483.7473/flat,1000x1000,075,f.u1.jpg">
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -34,8 +36,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg">
 src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg">
 <img align="left" alt="Opencv" width="30px"
 src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg">
-<img align="left" alt="Tensorflow" width="44px"
-src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <br>
 <br>
  

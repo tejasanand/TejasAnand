@@ -46,7 +46,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_s
 <p align="left">
 <h2 align="left">Connect with me:</h2>
 
-<a href="https://www.instagram.com/tejas_anand_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tejasnaand" height="30" width="40" /></a> <a href="linkedin.com/in/tejas-anand-828142215" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85618388/122678285-b8accf80-d203-11eb-9405-007c7bbd75db.png" alt="tejasanand" height="40px" width="35px" /></a> <a href="https://open.spotify.com/user/31c4x7icxf4zam7nu2seh77b265y?si=85f636d980a3444e" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85618388/122677726-2acfe500-d201-11eb-96c5-212cedc0348f.png" alt="tejasanand" height="43" width="40" /></a>
+<a href="https://www.instagram.com/tejas_anand_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tejasnaand" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/tejas-anand-828142215/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85618388/122678285-b8accf80-d203-11eb-9405-007c7bbd75db.png" alt="tejasanand" height="40px" width="35px" /></a> <a href="https://open.spotify.com/user/31c4x7icxf4zam7nu2seh77b265y?si=85f636d980a3444e" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85618388/122677726-2acfe500-d201-11eb-96c5-212cedc0348f.png" alt="tejasanand" height="43" width="40" /></a>
 
 
 

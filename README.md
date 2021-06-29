@@ -8,7 +8,7 @@ Reach me at **anandtejas455@gmail.com**
 
 
 
-- 🔭 I’m currently learning  Javascript and expanding my knowledge on Data Science libraries in Python like Scipy and Numpy
+- 🔭 I’m currently learning  Flutter and expanding my knowledge on Data Science libraries in Python like Scipy and Numpy
 
 -  ♤I know Python,TensorFlow,Swift,Octave,HTML5 & CSS3
 

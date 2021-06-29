@@ -1,20 +1,17 @@
 <h1 align="center">Hey, I'm Tejas Anand <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1> 
 
-I'm  a Software Developer
+## I'm  a Software Developer ##
 
 Reach me at **anandtejas455@gmail.com**
 
 
+- 🔭 I’m currently learning  Flutter 
 
+-  ♤My Main interest: Machine Learning
 
-
-- 🔭 I’m currently learning  Flutter and expanding my knowledge on Data Science libraries in Python like Scipy and Numpy
-
--  ♤I know Python,TensorFlow,Swift,Octave,HTML5 & CSS3
-
-
-- ⚡ Fun fact: I play games and listen to songs.
   
+
+
 <p align="left">
 
 <h2 align="left">Languages and tools:</h2>

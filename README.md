@@ -7,7 +7,7 @@ Reach me at **anandtejas455@gmail.com**
 
 - 🔭 I’m currently learning  Flutter 
 
--  ♤My Main interest: Machine Learning
+-  ♤My main interest: Machine Learning
 
   
 

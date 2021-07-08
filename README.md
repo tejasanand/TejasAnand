@@ -44,6 +44,12 @@ src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg">
 
 
 
+![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TejasAnand&hide=contribs,prs)
+
+
+
+
+
 
 
 
